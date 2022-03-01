@@ -1,6 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname |Sierpinski Triangle|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #t)))
+#reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname sierpinski-triangle) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #t)))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  Project  IV  : Sierpinski Triangle  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Visualization of the iteration of the Sierpinski Triangle
 
@@ -182,8 +182,8 @@
     [(key=? "right" ke) (add1 num)]
     [else num]))
    
-
-                              
+;; Starting up visualization
+(sierpinski-triangle 0)
                                  
                       
                                                     
