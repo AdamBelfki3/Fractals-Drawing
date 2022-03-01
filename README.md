@@ -3,7 +3,8 @@
 A dynamic visualization of the iterations of the **Sierpinski Carpet** and **Sierpinski Triangle** fractals.\
 This project represents my first attempt at a CS project following my first semester at Northeastern University, and it is implemented in **Racket**. Through this program, I attempt to use Computer Science to visualize a complex but fascinating, recursive geometrical figures, but I also worked on utilizing mathematical and discrete concepts to make the program follow the rules that will make it achieve its purpose.
 
-![alt text](https://media.giphy.com/media/fAsgcFO13fmtuCIvXW/giphy.gif) ![alt text](https://media.giphy.com/media/0XwqzpZMeDneXKIOOB/giphy.gif)
+<img src="https://media.giphy.com/media/fAsgcFO13fmtuCIvXW/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/0XwqzpZMeDneXKIOOB/giphy.gif" width="300">
 
 
 ## Installation & Usage
